@@ -1,0 +1,10 @@
+streamlit>=1.40
+xarray
+netcdf4
+numpy
+pandas
+geopandas
+rasterio
+pydeck
+plotly
+matplotlib
